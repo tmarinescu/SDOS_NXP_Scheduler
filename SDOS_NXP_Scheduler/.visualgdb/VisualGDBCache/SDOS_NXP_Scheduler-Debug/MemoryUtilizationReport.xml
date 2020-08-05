@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MemoryUtilizationReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Memories>
+    <MemoryUtilization>
+      <MemoryName>SRAM_DTC</MemoryName>
+      <Used>3360</Used>
+      <Total>65536</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>SRAM_ITC</MemoryName>
+      <Used>0</Used>
+      <Total>65536</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>SRAM_OC</MemoryName>
+      <Used>0</Used>
+      <Total>131072</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>Unknown</MemoryName>
+      <Used>18220</Used>
+      <Total>0</Total>
+    </MemoryUtilization>
+  </Memories>
+</MemoryUtilizationReport>
